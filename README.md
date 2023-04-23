@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Laravel / Javascript ( Vue / React )**
 
-- 📫 You can connect me at **premthakkar@outlook.com**
+- 📫 You can email me at **premthakkar@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
