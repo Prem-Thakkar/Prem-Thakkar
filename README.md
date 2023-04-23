@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Laravel And Vue / Reactjs Projects**
 
-- 📝 I regularly write posts on [https://www.linkedin.com/in/prem-thakkar/](https://www.linkedin.com/in/prem-thakkar/)
+- 📝 I regularly write posts on Linkedin at [https://www.linkedin.com/in/prem-thakkar/](https://www.linkedin.com/in/prem-thakkar/)
 
 - 💬 Ask me about **Laravel / Javascript ( Vue / React )**
 
-- 📫 How to reach me **premthakkar@outlook.com**
+- 📫 You can connect me at **premthakkar@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
