@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Thakkar</h1>
-<h3 align="center">A passionate web engineer from India</h3>
+<h3 align="center">A Passionate Web Engineer from India</h3>
 
 - 🔭 I’m currently working on **Laravel And Vue / Reactjs Projects**
 
